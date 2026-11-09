@@ -19,3 +19,6 @@
 - No claim that proportional odds or cross-group measurement validity is established.
 - Alanoud's dataset is included, but her missing results text/figures are not replaced with newly attributed work.
 - This package has not been pushed to GitHub or uploaded to Overleaf.
+
+## Placeholder correction
+Added explicit placeholder files for Mohamed, Moza and Alanoud, plus Linda's integration notes. Wired Mohamed's Discussion into the main document. Analysis and data are unchanged.

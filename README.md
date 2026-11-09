@@ -23,3 +23,13 @@ Add Alanoud's actual results at overleaf/alanoud/results_descriptive.tex. Add Mo
 4. Combine contributions, compile and review before submission.
 
 See CHANGES.md and checks/ for completed verification and remaining limitations.
+
+## Contributor folders
+- overleaf/alanoud/results_descriptive.tex: descriptive results placeholder.
+- overleaf/ordinal_regression/: Fangzhou's corrected contribution.
+- overleaf/moza/results_validation.tex: validation placeholder.
+- overleaf/mohamed/discussion.tex: discussion and literature placeholder.
+- overleaf/linda/README.txt: integration responsibilities.
+
+## Preserve folders on GitHub
+Extract the ZIP first. On Add file > Upload files, drag the actual top-level folders (overleaf, data, scripts, archive, checks) from your file manager into the drop zone. Do not select only the files inside each folder. Verify paths such as overleaf/mohamed/discussion.tex before committing. The upload screen can list individual files with paths; repository folders appear after committing.

@@ -1,0 +1,45 @@
+{
+  "source_sha256": "07bf591960567e73bfb4cc9c74e2a12bbdbfa2f33da7c19d9c78d4f940e8933e",
+  "sample_flow": [
+    [
+      "Synthetic responses",
+      700
+    ],
+    [
+      "Known nationality",
+      691
+    ],
+    [
+      "Single or engaged (primary population)",
+      407
+    ],
+    [
+      "Gender and age group reported (analysed)",
+      396
+    ]
+  ],
+  "wider_n": 655,
+  "design_columns": [
+    "C1 Employment confidence",
+    "C9 Housing access",
+    "C14 Financial preparedness",
+    "E3 Family support raises confidence",
+    "E13 Future confidence would encourage",
+    "F9 Work-life balance would encourage",
+    "Emirati (vs non-Emirati)",
+    "Gender: male",
+    "Role: employee",
+    "Age: 21-25",
+    "Age: 26-30",
+    "Age: 31 or above",
+    "Language: Arabic",
+    "Engaged (vs single)"
+  ],
+  "design_full_rank": true,
+  "probabilities_nonnegative_and_sum_to_one": true,
+  "syntax_check": "passed",
+  "full_statsmodels_execution": "not completed: dependency unavailable and installation failed",
+  "moza_validation": "pending; no out-of-sample performance claimed",
+  "alanoud_writeup": "not supplied",
+  "latex_compile": "passed; no undefined references or overfull boxes in final log"
+}

@@ -1,0 +1,25 @@
+{
+  "scope": "Primary point estimates only, independently fitted with SciPy; not validation of other outputs",
+  "n": 396,
+  "log_likelihood": -428.3831481404775,
+  "max_difference_from_rounded_beta": 0.00045947196996448995,
+  "difference_from_reported_log_likelihood": 4.173614343017107e-08,
+  "optimizer_message": "Desired error not necessarily achieved due to precision loss.",
+  "passed": true,
+  "odds_ratios": [
+    1.2663764037055205,
+    1.3991713414902254,
+    1.8298761168810147,
+    1.3109305937302225,
+    1.0429500021255504,
+    1.0004595775433789,
+    1.7541805665807584,
+    0.7669951204566221,
+    1.082290081252363,
+    1.2887828511143666,
+    3.47593846212973,
+    2.6698840820326737,
+    1.3549669458557352,
+    4.731431882351903
+  ]
+}
