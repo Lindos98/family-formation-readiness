@@ -1,0 +1,13 @@
+Integration review 10 November 2026
+
+Included Alanoud descriptive contribution and all four figures and four tables; preserved her wording and results. Moza section and figure preserved. Mohamed discussion placeholder remains.
+
+Before submission:
+1. Alanoud uses 407 single/engaged known-nationality records; regression excludes 11 missing age/gender records, leaving 396. These are different valid denominators, not competing estimates. Clarify the flow diagram with the final regression sample.
+2. RESOLVED: Alanoud confirmed that the synthetic-data indicator column was removed and the count in Table 4 was not updated. Table 4 now reports 135 columns and notes that all 700 records remain synthetic. The archived original contribution is unchanged.
+3. Moza figure script plots manually supplied probabilities. It is not a validation pipeline and does not calculate these values from fitted predictions. Request prediction-level output or code deriving the calibration table. Held-out validation is still pending.
+4. Moza says target Emirati population; the revised comparison includes non-Emiratis too. Consider changing this phrase to target study population.
+5. Fangzhou final diagnostics paragraph says held-out validation is reserved for Moza; her delivered section contains in-sample checks only. Update task status before submission.
+6. Dataset generator, seed and dependencies remain unavailable. Results cannot be interpreted as empirical evidence.
+7. Mohamed discussion remains pending. This is not a submission-ready paper.
+8. Word conversion preserves content and numerical tables; figure/table numbering is continuous. Original contributions are archived. Bibliographic claims and full statistical pipeline have not been independently revalidated in this integration.

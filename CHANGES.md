@@ -22,3 +22,8 @@
 
 ## Placeholder correction
 Added explicit placeholder files for Mohamed, Moza and Alanoud, plus Linda's integration notes. Wired Mohamed's Discussion into the main document. Analysis and data are unchanged.
+
+
+## 10 November 2026 column count correction
+
+Corrected Alanoud Table 4 from 136 to 135 columns following her confirmation. Added a note that the synthetic-data indicator column was removed before analysis and all 700 records remain synthetic. Updated the data-status row and resolved the column-count review note. No datasets or model results were changed. The separately supplied Word draft has not been updated in this package-only revision.
